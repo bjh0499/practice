@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-left
-=======
-aa
->>>>>>> refs/remotes/origin/main
+leftleft
